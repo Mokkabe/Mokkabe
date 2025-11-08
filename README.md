@@ -27,7 +27,8 @@ Geplant ist, das Projekt später um interaktive Funktionen zu erweitern.
 
 ---
 
-### 🌿 [Webseite-Nahrungsergänzungsmittel](https://github.com/Mokkabe/Webseite-Nahrungserg-nzungsmittel)
+### 🌿 [webseite – nahrungsergänzungsmittel](https://github.com/Mokkabe/Webseite-Nahrungserg-nzungsmittel)
+
 Ein **Prototyp** einer Informationsseite zum Thema **Nahrungsergänzungsmittel**.  
 Aktuell besteht sie aus einer Startseite mit Grundlayout und Navigation.  
 Das Projekt dient als Übungsplattform, um **HTML, CSS und JavaScript** praxisnah zu vertiefen.
