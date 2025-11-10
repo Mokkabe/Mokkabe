@@ -7,7 +7,7 @@
 
 ## 🚀 Über mich
 
-Ich befinde mich aktuell in der Ausbildung zum **Applikationsentwickler** und lerne, sauberen, strukturierten und wartbaren Code zu schreiben.  
+Ich befinde mich aktuell in der Ausbildung zum **Applikationsentwicklerin** und lerne, sauberen, strukturierten und wartbaren Code zu schreiben.  
 Mein Schwerpunkt liegt auf der **Webentwicklung** und dem Aufbau moderner, nutzerfreundlicher Anwendungen mit **C#**, **Python** und **React**.  
 
 Ich interessiere mich besonders für:
