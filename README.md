@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mokkabe
 
-💻 **Applikationsentwickler in Ausbildung**  
+💻 **Applikationsentwicklerin in Ausbildung**  
 🎯 Schwerpunkt: **Webentwicklung & Softwaredesign mit C#, Python und React**
 
 ---
