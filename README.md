@@ -14,6 +14,13 @@ Ich interessiere mich besonders für:
 ⚙️ Full-Stack-Anwendungen mit API-Anbindung
 🎨 Benutzerfreundliches und klares UI/UX-Design
 
+## 🎮 Spiel
+
+🏭 **BeatWaste** (ehemals WasteLords)
+Ein browserbasiertes Strategiespiel als Fullstack-Projekt mit ASP.NET Core im Backend und React im Frontend.
+🌐 beatwaste.io
+🔒 Der Quellcode bleibt privat und ist nicht öffentlich einsehbar.
+
 ## 🧩 Projekte
 
 🐶 **hunde-sups**
@@ -33,7 +40,7 @@ Das Projekt dient als Übungsplattform, um HTML, CSS und JavaScript praxisnah zu
 | Kategorie | Tools & Technologien |
 |-----------|----------------------|
 | 💻 Sprachen | C#, Python, JavaScript, HTML, CSS |
-| ⚙️ Frameworks & Libraries | .NET, React |
+| ⚙️ Frameworks & Libraries | .NET, ASP.NET Core, React |
 | 🧰 Entwicklung & Tools | Git, GitHub, Visual Studio, VS Code, Linux Mint |
 | 🌐 Interessen | Full-Stack-Entwicklung, API-Design, Web Security |
 
